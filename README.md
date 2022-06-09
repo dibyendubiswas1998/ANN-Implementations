@@ -8,6 +8,15 @@ https://www.v7labs.com/blog/neural-networks-activation-functions
 https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 https://www.kdnuggets.com/2020/12/optimization-algorithms-neural-networks.html#:~:text=The%20process%20of%20minimizing%20(or,problems%20by%20minimizing%20the%20function.
 https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/
+https://www.v7labs.com/blog/neural-networks-activation-functions
+https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/#:~:text=Cross%2Dentropy%20and%20mean%20squared,when%20training%20neural%20network%20models.
+https://analyticsindiamag.com/loss-functions-in-deep-learning-an-overview/
+https://www.analyticssteps.com/blogs/what-are-different-loss-functions-used-optimizers-neural-networks
+https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/
+https://medium.com/analytics-vidhya/this-blog-post-aims-at-explaining-the-behavior-of-different-algorithms-for-optimizing-gradient-46159a97a8c1
+
+
+
 
 
 ## Implementation of ANN:
